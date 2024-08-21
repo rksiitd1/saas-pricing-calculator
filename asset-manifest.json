@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saas-pricing-calculator/static/css/main.56e86bfd.css",
+    "main.js": "/saas-pricing-calculator/static/js/main.2fc9a2a0.js",
+    "static/js/453.583d0f0e.chunk.js": "/saas-pricing-calculator/static/js/453.583d0f0e.chunk.js",
+    "index.html": "/saas-pricing-calculator/index.html",
+    "main.56e86bfd.css.map": "/saas-pricing-calculator/static/css/main.56e86bfd.css.map",
+    "main.2fc9a2a0.js.map": "/saas-pricing-calculator/static/js/main.2fc9a2a0.js.map",
+    "453.583d0f0e.chunk.js.map": "/saas-pricing-calculator/static/js/453.583d0f0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e86bfd.css",
+    "static/js/main.2fc9a2a0.js"
+  ]
+}
